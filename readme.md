@@ -70,3 +70,23 @@ LOL|218|3
    
   }
 ```
+
+```bash
+  sudo su 
+  echo"输出字符串"
+``` 
+
+```cpp
+  #include<iostream>
+  using namespace std;
+  int main(void){
+    
+ 	cout<<"输出字符串"<<endl;
+  }
+```
+## 超链接
+
+[Github](https://github.com "跳转到github")<br>
+[百度搜索](https://www.baidu.com "跳转到百度")<br>
+
+
